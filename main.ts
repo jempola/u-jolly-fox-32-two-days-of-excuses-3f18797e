@@ -1,5 +1,6 @@
 // Writes this entry's one funny excuse to /output/entry.txt.
-// The excuse commits to a single absurd reason: the work is done, just in the wrong timeline.
+// The excuse commits to one absurd reason: the work is done, just in the wrong timeline.
+// A machine that is totally confident and totally wrong at the same time.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line = "I finished the task in a parallel timeline. Unfortunately, this is the wrong one.";
