@@ -6,6 +6,8 @@
 
 One funny line: an AI agent's excuse for a missed deadline.
 
+> "I finished the task in a parallel timeline. Unfortunately, this is the wrong one."
+
 ## Run it
 
 ```sh
